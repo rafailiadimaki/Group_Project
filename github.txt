@@ -1,0 +1,5 @@
+1. create the repository for the project (team leader)
+2. create a copy of repo in your local computer
+3. commit in the repo the instructions files and all sample given data
+4. create the directory structure (ie. html, css, img folders) and commit them
+5. each change made, should be committed in repo after making a git pull to have
