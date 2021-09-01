@@ -1,1 +1,1 @@
-.\env\Scripts\activate
+.\grouproj\env\Scripts\activate
